@@ -4,7 +4,9 @@
  Bot HTTP simples Take Blip
 
 Link da plataforma Take Blip : https://portal.blip.ai/ 
->Guia de como
+>Guia de como configurar e usar esse repositorio : 
+
+https://forum.blip.ai/t/como-criar-um-bot-com-estrutura-http-com-api-em-c-avancado/20372
 
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
 #### **Os codigos aqui apresenados são exemplos e podem ser melhorados, otimizados e alterados.*
