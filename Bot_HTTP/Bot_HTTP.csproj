@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Lime.Protocol" Version="0.8.107" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="RestSharp" Version="108.0.2" />
+    <PackageReference Include="RestSharp" Version="112.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
